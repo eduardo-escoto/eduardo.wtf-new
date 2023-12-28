@@ -10,3 +10,5 @@
     # make a github action that re-commits to this repo whenever i commit to that notebook monorepo
 
 # Note: preserve file structure as much as possible
+# Note: I think the best way for this to work is with git hooks that 
+# update the repo with the latest updates from blog repo and notebook repo
