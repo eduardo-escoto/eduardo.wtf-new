@@ -10,5 +10,5 @@ export default async function Page() {
   const author = allAuthors.find((p) => p.slug === 'default') as Authors
   const authorContent = coreContent(author)
 
-  return <Main posts={posts} author = {author} authorContent={authorContent} />
+  return <Main posts={posts} author={author} authorContent={authorContent} />
 }
