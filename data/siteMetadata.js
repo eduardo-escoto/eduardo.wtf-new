@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://eduardo.wtf',
-  siteRepo: 'https://github.com/eduardo-exists/eduardo.wtf-new',
+  siteRepo: 'https://github.com/eduardo-escoto/eduardo.wtf-new',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
