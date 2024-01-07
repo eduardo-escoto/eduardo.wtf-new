@@ -32,3 +32,9 @@ repos:
       hooks:
           - id: prettier
             exclude: .yaml|.svg|.bib
+    - repo: https://github.com/pre-commit/mirrors-eslint
+      rev: v8.56.0
+      hooks:
+          - id: eslint
+            files: \.[jt]sx?$
+            types: [file]
