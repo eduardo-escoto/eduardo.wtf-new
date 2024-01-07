@@ -1,5 +1,4 @@
 {
   "typescript.tsdk": "node_modules/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true,
-  "julia.environmentPath": "/Users/ed/Projects/eduardo.wtf-new"
+  "typescript.enablePromptUseWorkspaceTsdk": true
 }
