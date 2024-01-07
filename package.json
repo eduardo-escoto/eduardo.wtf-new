@@ -13,11 +13,6 @@
     "processnotebooks": "python ./scripts/process_notebooks.py",
     "format": "prettier --write ."
   },
-  "lint-staged": {
-    "**/*.{js,jsx,ts,tsx}": [
-      "prettier --write"
-    ]
-  },
   "dependencies": {
     "@next/bundle-analyzer": "14.0.3",
     "@tailwindcss/forms": "^0.5.4",
