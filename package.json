@@ -10,7 +10,7 @@
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts",
     "postinstall": "husky install",
-    "processnotebooks": "python ./scripts/process_notebooks.py", 
+    "processnotebooks": "python ./scripts/process_notebooks.py",
     "format": "prettier --write ."
   },
   "dependencies": {
