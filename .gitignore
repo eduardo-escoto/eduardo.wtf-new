@@ -46,7 +46,7 @@ yarn-error.log*
 # Contentlayer
 .contentlayer
 
-# Jupyter 
+# Jupyter
 .ipynb_checkpoints
 
 # Sub-repo git
