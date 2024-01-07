@@ -48,3 +48,7 @@ yarn-error.log*
 
 # Jupyter 
 .ipynb_checkpoints
+
+# Sub-repo git
+/public/blog-posts
+/public/notebooks
